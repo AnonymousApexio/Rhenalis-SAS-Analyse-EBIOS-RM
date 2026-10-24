@@ -10,7 +10,7 @@
 
 | Champ | Valeur |
 |---|---|
-| **Objet de l'étude** | Plateforme cloud hébergeant l'ERP et le CRM de Rhénalis SAS *(cas fictif)* |
+| **Objet de l'étude** | Plateforme cloud hébergeant l'ERP et le CRM de Rhénalis SAS |
 | **Atelier** | Atelier 3 - Scénarios stratégiques |
 | **Étape** | 3.2 - Construction des chemins d'attaque stratégiques |
 | **Livrable** | Cinq scénarios stratégiques SS1 à SS5, cotés en gravité, reliés aux couples SR/OV, aux ER et aux PP |

@@ -10,7 +10,7 @@
 
 | Champ | Valeur |
 |---|---|
-| **Objet de l'étude** | Plateforme cloud hébergeant l'ERP et le CRM de Rhénalis SAS *(cas fictif)* |
+| **Objet de l'étude** | Plateforme cloud hébergeant l'ERP et le CRM de Rhénalis SAS  |
 | **Atelier** | Atelier 1 - Cadrage et socle de sécurité |
 | **Étape** | 1.2 - Recensement des missions, valeurs métier et biens supports |
 | **Livrable** | Périmètre métier et technique documenté, typologie ANSSI respectée |

@@ -10,7 +10,7 @@
 
 | Champ | Valeur |
 |---|---|
-| **Objet de l'étude** | Plateforme cloud hébergeant l'ERP et le CRM de Rhénalis SAS *(cas fictif)* |
+| **Objet de l'étude** | Plateforme cloud hébergeant l'ERP et le CRM de Rhénalis SAS  |
 | **Atelier** | Atelier 1 - Cadrage et socle de sécurité |
 | **Étape** | 1.3 - Identification et cotation des événements redoutés |
 | **Livrable** | Tableau des ER cotés en gravité, reliés aux besoins D-I-C-T |

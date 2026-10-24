@@ -10,7 +10,7 @@
 
 | Champ | Valeur |
 |---|---|
-| **Objet de l'étude** | Plateforme cloud hébergeant l'ERP et le CRM de Rhénalis SAS *(cas fictif)* |
+| **Objet de l'étude** | Plateforme cloud hébergeant l'ERP et le CRM de Rhénalis SAS  |
 | **Atelier** | Atelier 1 - Cadrage et socle de sécurité |
 | **Étape** | 1.4 - État du socle de sécurité et écarts de conformité |
 | **Livrable** | Tableau des écarts, rattachés aux référentiels, aux ER et aux risques |
