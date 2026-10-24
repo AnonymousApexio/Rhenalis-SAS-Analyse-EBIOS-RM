@@ -83,17 +83,9 @@ L'étude porte sur la **capacité de Rhénalis SAS à vendre, livrer, facturer e
 
 Matrice RACI issue de la feuille `Organisation` — **R** = réalise, **A** = approuve, **C** = consulté, **I** = informé.
 
-| Fonction | Personne (fictive) | A1 | A2 | A3 | A4 | A5 |
-|---|---|:-:|:-:|:-:|:-:|:-:|
-| **Direction** | Claire Muller (DG) | A | A | A | I | A |
-| **DSI / RSSI** | Sophie Haas | R | R | R | R | R |
-| **Métier** | Thomas Weber (DAF), Julien Roth (Directeur commercial) | C | C | C | I | C |
-| **Threat Intelligence** | Groupe d'étudiants (conseil SSI) | I | C | C | C | I |
-| **Architecte fonctionnel** | Laura Meyer | C | I | C | C | C |
-| **Architecte technique** | InfoGest Services (infogérant) | C | I | C | C | C |
+![Matrice RACI EBIOS des participants](./Matrice%20RACI%20EBIOS%20des%20participants.png)
 
-> ⚠️ **Note** : Sophie Haas cumule les fonctions DSI et RSSI. La matrice décrit le **rôle de chaque fonction**, pas des personnes distinctes.
->
+
 > ⚠️ **La direction et le métier sont indispensables à l'atelier 1** pour valider les enjeux.
 
 ---
