@@ -30,7 +30,7 @@
 | **Standard** | Cotation **action par action** dans le graphe d'attaque, puis agrégation sur le chemin le plus probable | Des scénarios longs, des chaînes de plusieurs étapes, une analyse fine | ❌ Non |
 | **Avancée** | Analyse probabiliste sur des données historiques ou des modèles de menace quantifiés | Des organisations disposant de données de télémétrie et de modèles de menace | ❌ Non |
 
-**Justification du choix** : le TP est un **premier exercice** conduit sur un cas fictif, avec cinq scénarios et une dizaine d'écarts de sécurité. La méthode **expresse** est celle que recommande le guide du TP pour ce type d'exercice. Elle est cohérente avec le volume de données disponibles, qui ne permettrait pas une cotation action par action faute d'historique et de télémétrie.
+**Justification du choix** : le TP est un **premier exercice**, avec cinq scénarios et une dizaine d'écarts de sécurité. La méthode **expresse** est celle que recommande le guide du TP pour ce type d'exercice. Elle est cohérente avec le volume de données disponibles, qui ne permettrait pas une cotation action par action faute d'historique et de télémétrie.
 
 ### 2.2 Principe de la méthode expresse
 
@@ -195,7 +195,7 @@ Les scénarios comportent **4 étapes** chacun, bien en dessous du seuil d'envir
 ## 9. Checklist de validation
 
 - [x] La **méthode retenue** est explicitée : méthode **expresse**.
-- [x] La **justification du choix** est argumentée (premier exercice, cas fictif, pas de données historiques).
+- [x] La **justification du choix** est argumentée (premier exercice, pas de données historiques).
 - [x] Le **principe de cotation** est rappelé : cotation **en supposant que la source de risque passe à l'acte**.
 - [x] La **correction pour chaînes longues** est traitée : aucune chaîne n'atteint le seuil, aucune correction appliquée.
 - [x] Les **cinq scénarios** sont cotés : SO1 V3, SO2 V2, SO3 V3, SO4 V3, SO5 V3.

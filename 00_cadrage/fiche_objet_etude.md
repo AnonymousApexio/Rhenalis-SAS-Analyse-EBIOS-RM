@@ -2,7 +2,7 @@
 
 > **Cadrage de l'étude EBIOS Risk Manager** - Atelier 1, étape 1.1  
 > Feuille du classeur : `Organisation`
-> Dossier parent : [`README.md`](../README.md) · Fiche aval : [`A1_perimetre_metier_technique.md`](./A1_perimetre_metier_technique.md)
+> Dossier parent : [`README.md`](../README.md) · Fiche aval : [`A1_perimetre_metier_technique.md`](../01_atelier1_cadrage_socle/A1_perimetre_metier_technique.md)
 ---
 
 ## 1. Identification du rendu
