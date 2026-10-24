@@ -2,7 +2,7 @@
 
 > **Cadrage de l'étude EBIOS Risk Manager** - Atelier 1, étape 1.1  
 > Feuille du classeur : `Organisation`
-
+> Dossier parent : [`README.md`](../README.md) · Fiche aval : [`A1_perimetre_metier_technique.md`](./A1_perimetre_metier_technique.md)
 ---
 
 ## 1. Identification du rendu
@@ -12,8 +12,6 @@
 | **Objet du TP** | Analyse de risques cyber d'une plateforme cloud ERP/CRM |
 | **Méthode** | EBIOS Risk Manager v1.5 (ANSSI, mars 2024) - conforme ISO/IEC 27005:2022 |
 | **Organisation étudiée** | Rhénalis SAS - PME de distribution B2B de matériel électrique |
-| **Formation** | BUT 3 Réseaux & Télécommunications — parcours Cybersécurité |
-| **Établissement** | UHA / IUT de Colmar |
 | **Date de l'étude** | 21 octobre 2026 |
 | **Livrables associés** | `EBIOS_RM_Ateliers_modele.xlsx` · [`dossier de synthèse`](../EBIOS_RM_Dossier_de_synthese.pdf) - support de restitution orale |
 
